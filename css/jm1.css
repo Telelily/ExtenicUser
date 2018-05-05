@@ -1,0 +1,25 @@
+@charset "utf-8";
+#first{
+	color: white;
+}
+.panel-title{
+	text-align: center;	
+}
+.panel-title input{
+  text-align: center;
+  width:50%;
+ height: 30px;
+}
+
+
+.page-header  ul li a{
+	color:#8A8A8A;
+	font-size: 18px;
+}
+
+.foot{
+	text-align: center;
+	background-color: rgb(24,24,24);
+	color:#838B83;
+}
+
